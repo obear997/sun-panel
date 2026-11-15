@@ -1,7 +1,7 @@
 
 <div align=center>
 
-<img src="./doc/images/logo.png" width="100" height="100" />
+<img src="./docs/images/logo.png" width="100" height="100" />
 
 # Sun-Panel 拓展版
 
