@@ -58,7 +58,7 @@ Sun-Panel 拓展版是一个可自托管的导航面板，用于把 NAS、家庭
 
 ## 🍜 使用运行教程
 
-> Docker 示例使用本项目镜像 `lenmontea/sun-panel`；二进制文件示例仍沿用上游 v1.3.0，也可参考 [build.sh](./build.sh) 自行构建。
+> Docker 示例使用本项目镜像 `lenmontea/sun-panel`；二进制文件可从本项目 Releases 下载，也可参考 [build.sh](./build.sh) 自行构建。
 
 ### 默认账号密码
 账号：admin@sun.cc
@@ -74,7 +74,7 @@ Sun-Panel 拓展版是一个可自托管的导航面板，用于把 NAS、家庭
 
 ### 二进制文件运行
 
-去 [上游 Releases](https://github.com/hslr-s/sun-panel/releases) 下载 v1.3.0 二进制文件
+去 [本项目 Releases](https://github.com/obear997/sun-panel/releases) 下载 v1.3.1 二进制文件
 
 执行示例
 
