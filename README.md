@@ -6,7 +6,7 @@
 # Sun-Panel 拓展版
 
 [![Github](https://img.shields.io/badge/Github-obear997%2Fsun--panel-242424?logo=github&labelColor=242424)](https://github.com/obear997/sun-panel)
-[![docker](https://img.shields.io/badge/docker-hslr%2Fsun--panel-1c7aed?logo=docker&logoColor=fff&labelColor=1c7aed)](https://hub.docker.com/r/hslr/sun-panel) 
+[![docker](https://img.shields.io/badge/docker-lenmontea%2Fsun--panel-1c7aed?logo=docker&logoColor=fff&labelColor=1c7aed)](https://hub.docker.com/r/lenmontea/sun-panel) 
 
 
 Server, NAS navigation panel, Homepage, Browser homepage.
