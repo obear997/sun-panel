@@ -78,3 +78,12 @@ jobs:
             ${{ vars.DOCKER_IMAGE_NAME }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      # 6. 更新 Docker Hub 仓库介绍页
+      - name: Update Docker Hub Overview
+        uses: peter-evans/dockerhub-description@v5
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+          repository: ${{ vars.DOCKER_IMAGE_NAME }}
+          readme-filepath: ./docs/DOCKER_HUB.md
